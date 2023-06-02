@@ -3,6 +3,6 @@
 Cole essa ULR: https://matheuskoeller.github.io/jogo-da-velha/ 
 PARA JOGAR AGORA!!!
 
-<div align="center">
-<img src="https://github.com/MatheusKoeller/jogo-da-velha/assets/117746452/c232fa5a-8a05-4270-aab3-52a3ad98e440" width="0px" />
-</div>
+![imagens img](https://github.com/MatheusKoeller/jogo-da-velha/assets/117746452/2403b3cf-cde4-4c27-8647-f2431d5eb07b)
+
+
